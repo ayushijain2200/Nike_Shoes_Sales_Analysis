@@ -1,0 +1,501 @@
+Product_ID,Product_Name,Category,Price,Discount,Rating,Reviews_Count,Stock,Sales,Region,Date
+1,Metcon,Training,10943,20,3.5,816,177,430,North,2024-01-01
+2,ZoomX,Basketball,9891,10,4.9,117,133,383,South,2024-01-02
+3,Pegasus,Basketball,9738,0,3.1,376,59,492,North,2024-01-03
+4,ZoomX,Running,5472,20,4.1,290,171,21,South,2024-01-04
+5,ZoomX,Training,13852,20,3.3,137,120,300,East,2024-01-05
+6,Revolution,Running,5739,10,4.4,238,138,139,West,2024-01-06
+7,Pegasus,Lifestyle,8401,40,2.8,120,193,359,West,2024-01-07
+8,Pegasus,Lifestyle,4761,30,4.9,145,174,324,North,2024-01-08
+9,Pegasus,Running,14706,30,3.6,371,107,499,North,2024-01-09
+10,ZoomX,Basketball,13167,20,3.1,195,107,385,North,2024-01-10
+11,Metcon,Basketball,13554,10,2.7,665,130,92,East,2024-01-11
+12,Pegasus,Running,3876,30,2.9,593,75,447,South,2024-01-12
+13,ZoomX,Running,6812,20,3.8,138,29,280,East,2024-01-13
+14,Revolution,Lifestyle,14640,40,3.3,885,20,125,West,2024-01-14
+15,Metcon,Basketball,12504,30,4.6,270,155,483,North,2024-01-15
+16,Revolution,Running,4460,20,3.6,524,189,397,South,2024-01-16
+17,Metcon,Lifestyle,13901,20,3.1,458,160,111,West,2024-01-17
+18,ZoomX,Basketball,13516,0,4.0,909,162,354,West,2024-01-18
+19,Air Max,Training,4733,40,4.3,113,179,139,West,2024-01-19
+20,Metcon,Lifestyle,4605,0,2.9,492,33,484,East,2024-01-20
+21,Revolution,Basketball,8622,10,2.9,233,40,435,North,2024-01-21
+22,ZoomX,Basketball,9767,0,2.6,841,50,273,West,2024-01-22
+23,Metcon,Lifestyle,13755,0,4.3,883,174,99,North,2024-01-23
+24,Air Max,Training,14613,30,4.2,875,81,252,East,2024-01-24
+25,Air Max,Lifestyle,9986,20,3.7,500,57,338,West,2024-01-25
+26,Pegasus,Basketball,6517,40,4.6,482,74,104,East,2024-01-26
+27,Pegasus,Running,13589,0,4.5,19,184,214,East,2024-01-27
+28,Revolution,Running,6735,40,4.0,414,22,249,North,2024-01-28
+29,Metcon,Lifestyle,14062,0,4.7,905,175,152,West,2024-01-29
+30,Metcon,Basketball,12352,10,3.0,311,127,250,East,2024-01-30
+31,Pegasus,Running,11434,0,2.8,240,149,275,West,2024-01-31
+32,Metcon,Basketball,5590,30,3.2,740,16,165,North,2024-02-01
+33,Metcon,Lifestyle,4063,20,2.6,932,68,487,East,2024-02-02
+34,Air Max,Running,7324,10,3.8,75,107,341,North,2024-02-03
+35,Pegasus,Basketball,13787,0,4.8,946,138,8,West,2024-02-04
+36,ZoomX,Running,12111,40,2.6,121,93,284,West,2024-02-05
+37,Pegasus,Lifestyle,8342,10,2.8,22,14,5,North,2024-02-06
+38,ZoomX,Basketball,3005,10,3.6,402,90,145,South,2024-02-07
+39,Air Max,Running,10489,0,4.8,509,162,101,East,2024-02-08
+40,Revolution,Lifestyle,11659,10,3.3,941,32,164,West,2024-02-09
+41,Metcon,Running,11195,40,3.8,607,124,374,West,2024-02-10
+42,Air Max,Running,8966,10,2.6,243,15,147,East,2024-02-11
+43,Metcon,Training,11837,40,2.9,611,161,64,North,2024-02-12
+44,Revolution,Training,3117,0,5.0,323,65,91,North,2024-02-13
+45,Revolution,Lifestyle,14120,20,4.9,575,167,117,North,2024-02-14
+46,Air Max,Training,5551,10,2.5,21,155,354,South,2024-02-15
+47,Revolution,Lifestyle,8560,20,4.9,218,46,267,South,2024-02-16
+48,ZoomX,Training,7289,40,4.1,983,166,310,West,2024-02-17
+49,Revolution,Running,3846,10,4.7,23,197,173,North,2024-02-18
+50,Metcon,Lifestyle,13954,30,3.6,642,147,47,East,2024-02-19
+51,Metcon,Lifestyle,9316,20,3.8,427,123,140,West,2024-02-20
+52,Metcon,Running,9469,10,3.7,446,0,246,East,2024-02-21
+53,Metcon,Lifestyle,12333,20,4.2,386,199,149,West,2024-02-22
+54,ZoomX,Lifestyle,13002,10,2.8,29,86,246,South,2024-02-23
+55,Pegasus,Training,11915,0,2.6,596,127,395,West,2024-02-24
+56,Air Max,Lifestyle,3224,20,3.3,921,190,487,South,2024-02-25
+57,Metcon,Basketball,7208,30,4.3,764,66,476,West,2024-02-26
+58,Revolution,Running,9283,30,3.0,744,3,5,North,2024-02-27
+59,Metcon,Training,5048,40,4.2,79,185,465,East,2024-02-28
+60,Revolution,Training,9233,10,4.9,833,152,184,North,2024-02-29
+61,Revolution,Basketball,12765,20,2.7,220,46,20,West,2024-03-01
+62,Metcon,Running,4828,40,4.2,110,37,425,West,2024-03-02
+63,ZoomX,Running,4917,20,3.6,707,142,46,West,2024-03-03
+64,Revolution,Training,7234,10,4.7,141,190,12,South,2024-03-04
+65,Revolution,Lifestyle,9988,30,2.9,632,20,70,East,2024-03-05
+66,Metcon,Training,5026,0,4.2,390,56,17,East,2024-03-06
+67,Revolution,Running,6744,30,4.6,141,116,371,West,2024-03-07
+68,Revolution,Basketball,12093,40,4.9,29,180,147,West,2024-03-08
+69,Metcon,Training,13231,0,4.2,915,45,154,South,2024-03-09
+70,Metcon,Running,3009,40,3.7,545,141,304,North,2024-03-10
+71,Air Max,Training,3260,10,4.0,236,144,108,North,2024-03-11
+72,ZoomX,Lifestyle,9038,0,4.7,163,38,236,East,2024-03-12
+73,ZoomX,Training,12865,40,3.9,814,136,308,South,2024-03-13
+74,Revolution,Training,5219,10,2.6,751,98,352,West,2024-03-14
+75,ZoomX,Running,10041,30,4.8,478,76,70,East,2024-03-15
+76,Revolution,Running,5060,10,4.2,831,114,183,South,2024-03-16
+77,Air Max,Running,8287,20,4.2,880,133,250,North,2024-03-17
+78,Metcon,Training,14905,10,3.0,414,150,228,South,2024-03-18
+79,Metcon,Lifestyle,4619,10,4.1,211,186,102,North,2024-03-19
+80,Metcon,Basketball,11512,20,3.5,47,90,75,South,2024-03-20
+81,ZoomX,Basketball,4342,40,4.1,951,97,417,East,2024-03-21
+82,Air Max,Running,13568,40,2.8,781,119,446,North,2024-03-22
+83,ZoomX,Running,5832,10,4.1,197,45,216,East,2024-03-23
+84,ZoomX,Training,5824,20,5.0,66,37,407,East,2024-03-24
+85,Air Max,Basketball,4994,20,2.6,950,141,399,North,2024-03-25
+86,Air Max,Running,14150,30,4.9,29,99,411,North,2024-03-26
+87,Air Max,Lifestyle,13230,40,3.5,282,71,203,West,2024-03-27
+88,Air Max,Lifestyle,6490,0,4.7,128,189,192,West,2024-03-28
+89,Metcon,Running,14869,40,4.5,592,34,249,West,2024-03-29
+90,Pegasus,Running,12310,40,3.9,525,146,499,East,2024-03-30
+91,Pegasus,Basketball,10984,30,4.3,230,29,242,East,2024-03-31
+92,Air Max,Basketball,4604,0,4.7,535,77,465,West,2024-04-01
+93,Pegasus,Training,3235,30,3.5,524,83,179,East,2024-04-02
+94,Pegasus,Basketball,13161,0,3.3,737,112,437,East,2024-04-03
+95,Air Max,Lifestyle,4908,10,4.2,750,24,462,North,2024-04-04
+96,Pegasus,Lifestyle,11567,0,4.5,345,167,219,North,2024-04-05
+97,ZoomX,Running,6530,30,4.4,707,87,82,East,2024-04-06
+98,Revolution,Basketball,8256,40,4.5,64,13,92,West,2024-04-07
+99,Revolution,Training,5635,0,3.6,509,153,435,South,2024-04-08
+100,Air Max,Lifestyle,11162,0,4.5,909,101,175,West,2024-04-09
+101,Metcon,Lifestyle,12762,20,2.8,897,149,239,South,2024-04-10
+102,Air Max,Training,5560,40,3.9,775,175,260,West,2024-04-11
+103,Metcon,Training,8415,10,2.5,545,82,391,North,2024-04-12
+104,Revolution,Lifestyle,6391,30,3.3,171,109,365,East,2024-04-13
+105,Air Max,Lifestyle,14157,10,3.4,679,178,163,East,2024-04-14
+106,ZoomX,Training,14835,40,3.5,603,130,48,North,2024-04-15
+107,Pegasus,Lifestyle,8951,0,4.2,924,169,329,South,2024-04-16
+108,Metcon,Running,8468,0,3.5,168,18,328,South,2024-04-17
+109,Pegasus,Running,11007,40,3.6,197,27,116,South,2024-04-18
+110,Pegasus,Training,12064,0,3.1,69,172,429,North,2024-04-19
+111,Air Max,Basketball,12444,0,3.4,924,70,337,South,2024-04-20
+112,Pegasus,Training,9413,0,3.1,826,62,337,North,2024-04-21
+113,ZoomX,Training,9941,30,2.7,328,72,369,West,2024-04-22
+114,Pegasus,Basketball,12506,30,4.0,887,123,225,West,2024-04-23
+115,Air Max,Basketball,7820,20,4.2,220,118,352,North,2024-04-24
+116,ZoomX,Basketball,5898,10,4.0,415,120,328,East,2024-04-25
+117,Revolution,Running,10546,40,3.7,673,18,147,West,2024-04-26
+118,Pegasus,Lifestyle,3077,40,3.4,118,174,63,South,2024-04-27
+119,Air Max,Running,10577,40,4.7,85,141,294,North,2024-04-28
+120,Revolution,Lifestyle,13813,20,3.8,551,119,323,South,2024-04-29
+121,Revolution,Running,7227,30,3.7,323,165,443,South,2024-04-30
+122,Metcon,Lifestyle,3600,20,2.6,126,180,325,East,2024-05-01
+123,ZoomX,Running,4065,40,3.4,936,60,13,South,2024-05-02
+124,Pegasus,Basketball,5136,10,3.5,877,163,431,East,2024-05-03
+125,Air Max,Training,13641,0,3.5,713,167,494,West,2024-05-04
+126,Metcon,Running,13535,30,4.0,28,29,189,North,2024-05-05
+127,ZoomX,Lifestyle,13055,30,3.8,441,8,287,South,2024-05-06
+128,Metcon,Basketball,12510,20,4.0,694,63,208,North,2024-05-07
+129,ZoomX,Running,14789,30,4.4,749,160,114,South,2024-05-08
+130,ZoomX,Running,9943,40,4.5,359,119,480,North,2024-05-09
+131,Pegasus,Basketball,14954,40,4.3,192,51,22,South,2024-05-10
+132,ZoomX,Running,10804,20,4.9,122,88,349,South,2024-05-11
+133,Metcon,Training,9565,40,2.5,192,141,214,South,2024-05-12
+134,ZoomX,Running,8984,10,3.0,490,52,171,South,2024-05-13
+135,Pegasus,Training,8142,20,2.5,155,186,323,South,2024-05-14
+136,Pegasus,Training,7670,10,4.1,840,77,54,South,2024-05-15
+137,Metcon,Basketball,5190,0,4.7,637,40,394,South,2024-05-16
+138,Revolution,Running,12184,10,3.1,122,195,298,South,2024-05-17
+139,Revolution,Basketball,5712,0,4.8,772,67,320,South,2024-05-18
+140,ZoomX,Running,5192,0,2.7,485,7,126,North,2024-05-19
+141,Air Max,Running,4248,10,4.8,772,1,277,East,2024-05-20
+142,ZoomX,Lifestyle,14246,20,3.4,312,104,464,South,2024-05-21
+143,Metcon,Running,7033,40,2.8,980,124,204,East,2024-05-22
+144,Metcon,Basketball,4997,40,3.7,834,109,194,South,2024-05-23
+145,Metcon,Training,6687,0,3.1,127,85,169,South,2024-05-24
+146,Metcon,Running,13343,0,3.2,822,168,152,North,2024-05-25
+147,Metcon,Lifestyle,7018,20,3.3,170,119,35,West,2024-05-26
+148,Pegasus,Basketball,14302,30,4.5,410,126,184,West,2024-05-27
+149,Revolution,Running,4970,10,3.8,207,182,286,North,2024-05-28
+150,Metcon,Basketball,11389,0,3.3,269,15,57,East,2024-05-29
+151,Air Max,Lifestyle,8765,40,4.0,669,61,222,West,2024-05-30
+152,Air Max,Lifestyle,13818,20,4.3,761,112,303,North,2024-05-31
+153,Air Max,Basketball,4202,10,3.2,56,175,163,North,2024-06-01
+154,Air Max,Running,11135,20,3.5,996,157,19,West,2024-06-02
+155,Pegasus,Training,8567,10,2.8,408,11,370,East,2024-06-03
+156,Air Max,Lifestyle,10667,10,3.0,719,34,264,North,2024-06-04
+157,Metcon,Running,8742,0,4.2,568,10,282,South,2024-06-05
+158,ZoomX,Running,8788,20,3.0,87,63,113,East,2024-06-06
+159,Air Max,Training,8408,20,3.8,133,49,488,East,2024-06-07
+160,Pegasus,Lifestyle,13227,40,4.3,84,148,327,West,2024-06-08
+161,Pegasus,Lifestyle,11669,40,2.8,880,68,30,West,2024-06-09
+162,Air Max,Running,12446,0,3.9,146,47,135,South,2024-06-10
+163,ZoomX,Running,3922,0,3.1,611,19,67,North,2024-06-11
+164,Air Max,Training,3419,30,4.9,409,100,65,West,2024-06-12
+165,Pegasus,Training,5204,40,3.7,846,194,292,West,2024-06-13
+166,Revolution,Lifestyle,13789,10,4.5,514,171,25,East,2024-06-14
+167,Metcon,Basketball,4120,20,3.9,509,160,37,West,2024-06-15
+168,Pegasus,Lifestyle,14260,0,2.6,582,188,1,West,2024-06-16
+169,Air Max,Running,3950,20,4.1,147,136,399,West,2024-06-17
+170,Metcon,Lifestyle,5336,20,4.9,59,67,37,West,2024-06-18
+171,Air Max,Basketball,8373,30,4.0,780,34,141,East,2024-06-19
+172,Air Max,Training,5243,40,4.5,982,64,232,South,2024-06-20
+173,Revolution,Basketball,5645,0,4.7,628,7,136,South,2024-06-21
+174,Metcon,Basketball,13049,20,3.1,634,44,389,North,2024-06-22
+175,Metcon,Basketball,7612,0,3.0,871,86,188,West,2024-06-23
+176,Revolution,Training,4865,10,4.0,263,174,128,East,2024-06-24
+177,Pegasus,Basketball,14104,30,3.5,639,167,201,North,2024-06-25
+178,Air Max,Basketball,14045,10,4.6,719,75,127,North,2024-06-26
+179,ZoomX,Basketball,9028,0,4.8,858,181,257,South,2024-06-27
+180,Air Max,Running,10326,0,3.4,886,75,164,East,2024-06-28
+181,Air Max,Basketball,9371,40,3.1,572,173,35,East,2024-06-29
+182,Pegasus,Training,9359,20,4.5,766,46,194,East,2024-06-30
+183,Air Max,Basketball,10863,20,3.2,924,14,191,South,2024-07-01
+184,Revolution,Basketball,6228,10,4.6,435,104,104,South,2024-07-02
+185,Revolution,Training,6719,30,3.6,556,146,23,South,2024-07-03
+186,Metcon,Basketball,14420,20,4.2,311,25,265,South,2024-07-04
+187,ZoomX,Training,5371,40,2.7,931,51,290,South,2024-07-05
+188,Air Max,Basketball,5891,10,4.1,590,92,430,West,2024-07-06
+189,Air Max,Training,6756,10,3.6,358,149,462,West,2024-07-07
+190,Pegasus,Basketball,7225,40,4.0,841,20,384,East,2024-07-08
+191,Revolution,Basketball,3094,30,2.9,942,50,260,North,2024-07-09
+192,ZoomX,Running,5674,40,4.3,989,37,414,East,2024-07-10
+193,Metcon,Running,9898,30,4.7,58,19,479,North,2024-07-11
+194,Revolution,Basketball,13147,40,3.0,926,156,358,South,2024-07-12
+195,Metcon,Basketball,3793,40,2.7,83,178,75,North,2024-07-13
+196,Pegasus,Lifestyle,13026,0,2.6,713,131,355,East,2024-07-14
+197,Pegasus,Training,5116,10,4.1,270,54,72,East,2024-07-15
+198,Air Max,Lifestyle,8779,40,4.0,365,198,259,North,2024-07-16
+199,ZoomX,Running,14517,40,3.9,591,91,398,West,2024-07-17
+200,Metcon,Running,14111,20,3.1,611,27,188,South,2024-07-18
+201,Revolution,Running,13789,10,3.5,269,3,461,South,2024-07-19
+202,Pegasus,Running,14397,20,4.0,647,149,173,East,2024-07-20
+203,Air Max,Basketball,9166,10,3.7,752,75,480,West,2024-07-21
+204,Air Max,Running,3814,20,5.0,304,172,290,North,2024-07-22
+205,Metcon,Basketball,3345,40,2.8,940,66,45,South,2024-07-23
+206,Pegasus,Basketball,13541,40,4.2,650,85,61,West,2024-07-24
+207,ZoomX,Running,11554,0,3.5,801,193,83,South,2024-07-25
+208,Pegasus,Running,5443,20,3.6,322,161,123,West,2024-07-26
+209,Metcon,Training,13457,30,4.3,621,90,358,West,2024-07-27
+210,Metcon,Lifestyle,13380,0,4.2,847,182,16,East,2024-07-28
+211,Pegasus,Running,10783,20,5.0,818,104,66,South,2024-07-29
+212,Metcon,Training,14197,20,2.8,191,0,424,North,2024-07-30
+213,Pegasus,Training,14473,0,2.8,695,71,145,East,2024-07-31
+214,Revolution,Lifestyle,3984,40,4.3,837,86,375,East,2024-08-01
+215,Pegasus,Basketball,10790,20,3.9,373,165,162,North,2024-08-02
+216,Pegasus,Running,12831,40,3.2,197,5,234,East,2024-08-03
+217,Metcon,Lifestyle,3827,0,2.7,578,152,380,West,2024-08-04
+218,Metcon,Running,13922,40,2.7,552,144,144,West,2024-08-05
+219,Air Max,Training,6531,10,4.7,605,60,358,South,2024-08-06
+220,Air Max,Training,10147,30,3.0,673,11,188,South,2024-08-07
+221,Revolution,Basketball,7451,20,3.3,994,5,322,North,2024-08-08
+222,Air Max,Training,14127,30,3.1,557,26,450,South,2024-08-09
+223,Pegasus,Training,6876,40,3.4,734,135,474,West,2024-08-10
+224,Metcon,Lifestyle,8959,20,2.7,935,123,13,North,2024-08-11
+225,Air Max,Running,3126,40,3.8,417,105,184,North,2024-08-12
+226,Air Max,Running,6177,10,2.7,885,192,111,South,2024-08-13
+227,Revolution,Lifestyle,14248,0,4.5,627,184,415,West,2024-08-14
+228,Revolution,Basketball,11795,20,3.1,423,92,290,North,2024-08-15
+229,Pegasus,Running,14641,10,3.9,351,108,295,West,2024-08-16
+230,Metcon,Training,9024,10,4.7,229,98,451,West,2024-08-17
+231,Revolution,Running,8109,20,4.1,912,167,392,West,2024-08-18
+232,Air Max,Training,7146,40,3.8,172,141,215,South,2024-08-19
+233,Metcon,Basketball,10196,10,3.3,960,34,462,East,2024-08-20
+234,Metcon,Lifestyle,14725,30,3.3,229,175,120,East,2024-08-21
+235,Air Max,Running,14559,10,4.2,279,83,382,North,2024-08-22
+236,Revolution,Lifestyle,6368,40,5.0,641,55,55,West,2024-08-23
+237,Air Max,Running,6797,40,4.2,915,176,27,South,2024-08-24
+238,Metcon,Training,4792,30,3.9,857,140,118,West,2024-08-25
+239,ZoomX,Lifestyle,14053,10,4.3,409,188,221,West,2024-08-26
+240,ZoomX,Running,8732,40,3.7,191,48,231,South,2024-08-27
+241,Pegasus,Training,6476,20,2.7,627,45,53,East,2024-08-28
+242,Air Max,Lifestyle,6417,0,3.9,738,112,295,West,2024-08-29
+243,Air Max,Lifestyle,4645,0,4.9,214,189,321,West,2024-08-30
+244,Pegasus,Running,12397,0,2.9,591,135,401,East,2024-08-31
+245,Pegasus,Running,6030,10,4.2,565,42,233,South,2024-09-01
+246,Pegasus,Running,5872,30,3.0,850,147,158,North,2024-09-02
+247,Metcon,Training,6072,40,3.8,822,123,437,East,2024-09-03
+248,Air Max,Running,4854,20,2.7,237,96,269,North,2024-09-04
+249,Metcon,Lifestyle,7021,20,3.6,705,89,21,North,2024-09-05
+250,Pegasus,Lifestyle,7662,10,4.4,628,38,403,East,2024-09-06
+251,Air Max,Running,9514,0,3.4,605,84,53,West,2024-09-07
+252,Metcon,Running,8031,10,4.2,859,176,275,North,2024-09-08
+253,Metcon,Basketball,5708,30,4.5,259,191,313,North,2024-09-09
+254,Pegasus,Lifestyle,14694,30,4.8,884,61,281,South,2024-09-10
+255,Air Max,Training,10112,40,3.1,450,105,214,West,2024-09-11
+256,Pegasus,Basketball,12524,40,3.5,542,106,31,North,2024-09-12
+257,Air Max,Running,11393,30,2.9,205,53,337,South,2024-09-13
+258,ZoomX,Running,6507,30,5.0,699,125,183,West,2024-09-14
+259,Revolution,Lifestyle,9456,30,4.8,938,8,23,East,2024-09-15
+260,Revolution,Running,7212,10,3.8,996,87,32,East,2024-09-16
+261,Revolution,Training,10970,30,4.6,528,36,446,South,2024-09-17
+262,Pegasus,Lifestyle,11766,20,3.8,79,48,74,East,2024-09-18
+263,ZoomX,Running,3536,0,4.1,648,40,10,North,2024-09-19
+264,Air Max,Lifestyle,4625,30,2.7,408,16,484,West,2024-09-20
+265,Metcon,Running,13314,0,4.4,987,87,456,North,2024-09-21
+266,Air Max,Running,10973,10,2.8,681,20,54,North,2024-09-22
+267,Metcon,Running,11577,0,4.6,769,50,52,East,2024-09-23
+268,Air Max,Training,11070,10,4.5,212,58,148,North,2024-09-24
+269,ZoomX,Training,14473,20,4.3,157,166,160,East,2024-09-25
+270,Metcon,Lifestyle,11666,10,2.6,481,182,370,West,2024-09-26
+271,Pegasus,Running,11609,10,3.3,664,40,14,West,2024-09-27
+272,Air Max,Running,9490,40,3.2,953,38,178,North,2024-09-28
+273,Air Max,Training,6600,30,3.4,208,140,412,South,2024-09-29
+274,Metcon,Running,9783,30,2.7,926,191,366,East,2024-09-30
+275,Pegasus,Training,12146,20,4.8,435,10,53,East,2024-10-01
+276,Pegasus,Running,7971,20,3.9,675,146,408,North,2024-10-02
+277,ZoomX,Lifestyle,4205,30,3.3,501,138,335,East,2024-10-03
+278,Pegasus,Running,4990,40,3.5,897,76,22,East,2024-10-04
+279,Pegasus,Running,8299,30,3.6,905,126,30,South,2024-10-05
+280,Pegasus,Basketball,6572,40,4.0,151,45,191,South,2024-10-06
+281,Revolution,Training,8975,20,3.8,322,44,260,North,2024-10-07
+282,ZoomX,Running,9320,0,4.8,174,0,205,South,2024-10-08
+283,Air Max,Running,7380,20,3.7,323,167,59,North,2024-10-09
+284,Metcon,Basketball,7757,20,5.0,30,107,471,West,2024-10-10
+285,Air Max,Basketball,5713,10,4.6,91,18,264,North,2024-10-11
+286,ZoomX,Training,13395,10,3.0,590,75,466,West,2024-10-12
+287,Metcon,Basketball,8588,10,4.8,140,71,12,North,2024-10-13
+288,ZoomX,Lifestyle,14312,10,2.8,608,199,119,East,2024-10-14
+289,Pegasus,Basketball,3966,40,4.5,739,188,415,South,2024-10-15
+290,Metcon,Lifestyle,7944,30,3.5,942,108,462,West,2024-10-16
+291,Pegasus,Training,6432,0,4.7,993,11,290,North,2024-10-17
+292,Air Max,Training,3688,20,4.7,314,188,338,South,2024-10-18
+293,Air Max,Training,7243,40,4.5,924,160,248,North,2024-10-19
+294,Metcon,Training,6701,0,4.5,380,44,354,South,2024-10-20
+295,Metcon,Training,11533,40,3.3,866,89,127,South,2024-10-21
+296,ZoomX,Lifestyle,8182,40,2.7,862,102,75,North,2024-10-22
+297,ZoomX,Lifestyle,12916,20,3.5,393,196,361,West,2024-10-23
+298,Pegasus,Training,9704,30,2.9,917,7,204,West,2024-10-24
+299,Metcon,Basketball,7422,10,4.2,454,152,49,East,2024-10-25
+300,Air Max,Running,12984,30,3.4,434,90,79,South,2024-10-26
+301,ZoomX,Training,4759,20,4.9,170,173,441,East,2024-10-27
+302,ZoomX,Basketball,14404,20,4.1,187,86,479,East,2024-10-28
+303,Air Max,Running,12181,20,4.6,638,157,241,North,2024-10-29
+304,ZoomX,Training,13454,0,2.8,717,174,349,North,2024-10-30
+305,Pegasus,Training,5482,30,4.7,904,176,154,North,2024-10-31
+306,Metcon,Lifestyle,11058,30,4.8,499,174,274,South,2024-11-01
+307,Air Max,Running,3951,40,3.7,336,83,96,North,2024-11-02
+308,Metcon,Running,11914,40,4.0,607,81,214,North,2024-11-03
+309,ZoomX,Basketball,14581,40,4.4,298,145,294,South,2024-11-04
+310,ZoomX,Lifestyle,5079,20,2.9,602,193,209,South,2024-11-05
+311,Air Max,Lifestyle,5717,30,3.8,673,67,343,West,2024-11-06
+312,Pegasus,Lifestyle,13524,20,3.5,582,160,88,North,2024-11-07
+313,Revolution,Lifestyle,14568,0,2.9,582,126,306,North,2024-11-08
+314,Air Max,Running,7524,40,3.4,363,163,264,North,2024-11-09
+315,Revolution,Running,12692,20,2.7,37,81,425,West,2024-11-10
+316,Revolution,Training,11477,20,2.6,963,146,390,North,2024-11-11
+317,Pegasus,Training,10311,0,2.8,52,155,325,West,2024-11-12
+318,Revolution,Lifestyle,14687,10,4.9,690,167,428,East,2024-11-13
+319,Revolution,Lifestyle,10186,30,3.9,432,83,377,West,2024-11-14
+320,Pegasus,Lifestyle,5065,10,4.9,607,112,320,East,2024-11-15
+321,Revolution,Training,3768,40,3.6,186,75,157,North,2024-11-16
+322,Revolution,Basketball,8490,20,3.3,538,121,156,East,2024-11-17
+323,Revolution,Basketball,14249,0,3.8,619,142,139,West,2024-11-18
+324,Air Max,Training,9645,0,3.6,975,40,121,South,2024-11-19
+325,Air Max,Training,8083,30,2.8,503,166,65,East,2024-11-20
+326,Air Max,Training,8232,10,4.1,207,1,107,East,2024-11-21
+327,Pegasus,Training,13353,30,3.0,619,190,147,North,2024-11-22
+328,ZoomX,Training,14485,20,4.0,586,28,137,West,2024-11-23
+329,Revolution,Training,8797,30,4.1,851,104,411,East,2024-11-24
+330,Revolution,Lifestyle,12138,0,2.9,862,193,162,East,2024-11-25
+331,Pegasus,Lifestyle,7926,0,2.7,526,50,428,East,2024-11-26
+332,Revolution,Lifestyle,9016,40,4.5,523,74,452,East,2024-11-27
+333,Air Max,Lifestyle,6335,40,3.6,31,9,100,South,2024-11-28
+334,ZoomX,Training,11038,20,2.6,121,141,338,West,2024-11-29
+335,Metcon,Basketball,7873,10,5.0,66,50,399,North,2024-11-30
+336,Revolution,Running,4481,30,2.6,75,117,307,North,2024-12-01
+337,Air Max,Training,13093,20,4.2,851,120,141,South,2024-12-02
+338,Metcon,Running,9305,40,5.0,107,38,83,West,2024-12-03
+339,ZoomX,Basketball,6451,30,3.1,153,27,177,East,2024-12-04
+340,Metcon,Lifestyle,3054,40,2.9,889,2,198,South,2024-12-05
+341,Air Max,Basketball,10643,30,2.8,444,83,112,West,2024-12-06
+342,Metcon,Training,13015,10,3.3,646,197,56,East,2024-12-07
+343,Pegasus,Lifestyle,6462,20,2.8,688,154,460,South,2024-12-08
+344,Metcon,Training,14271,30,4.2,95,116,179,West,2024-12-09
+345,Revolution,Lifestyle,3832,0,2.7,597,1,421,North,2024-12-10
+346,Revolution,Running,13998,0,3.8,353,92,401,North,2024-12-11
+347,Pegasus,Running,8954,30,5.0,945,165,186,West,2024-12-12
+348,Air Max,Running,13682,30,4.5,303,130,471,North,2024-12-13
+349,Revolution,Basketball,11519,30,4.0,965,143,218,West,2024-12-14
+350,ZoomX,Training,10221,0,3.3,580,93,413,East,2024-12-15
+351,Revolution,Basketball,6310,0,4.1,659,39,417,West,2024-12-16
+352,Revolution,Running,6300,30,3.8,620,1,316,East,2024-12-17
+353,Air Max,Training,9722,40,3.6,713,80,475,South,2024-12-18
+354,Metcon,Running,10218,40,2.8,252,168,217,West,2024-12-19
+355,Revolution,Basketball,10776,10,4.7,840,11,120,South,2024-12-20
+356,Pegasus,Basketball,6675,20,3.6,570,162,439,North,2024-12-21
+357,Metcon,Basketball,6054,40,3.0,969,64,394,East,2024-12-22
+358,ZoomX,Running,10970,0,3.4,41,54,175,West,2024-12-23
+359,Air Max,Training,5143,40,3.5,400,44,23,South,2024-12-24
+360,ZoomX,Training,8207,10,4.6,286,100,213,East,2024-12-25
+361,Metcon,Running,12503,10,4.3,541,61,405,East,2024-12-26
+362,Metcon,Training,14383,20,4.4,163,48,235,North,2024-12-27
+363,Metcon,Running,5538,40,2.5,392,126,13,North,2024-12-28
+364,ZoomX,Training,7547,0,3.5,77,152,101,East,2024-12-29
+365,Metcon,Lifestyle,8619,0,3.7,887,22,417,East,2024-12-30
+366,ZoomX,Lifestyle,11356,30,2.5,893,151,24,West,2024-12-31
+367,Metcon,Basketball,9612,0,3.1,223,37,364,East,2025-01-01
+368,Pegasus,Lifestyle,8005,20,4.4,664,27,11,West,2025-01-02
+369,Metcon,Lifestyle,3822,20,2.8,385,20,273,East,2025-01-03
+370,ZoomX,Lifestyle,3943,0,3.8,753,181,452,North,2025-01-04
+371,Revolution,Running,9150,0,3.0,222,106,431,West,2025-01-05
+372,Metcon,Lifestyle,7425,30,2.5,88,145,281,South,2025-01-06
+373,Revolution,Lifestyle,11966,0,3.1,735,163,94,North,2025-01-07
+374,Pegasus,Basketball,5198,30,4.9,637,98,201,West,2025-01-08
+375,Air Max,Lifestyle,14348,30,4.5,613,172,21,West,2025-01-09
+376,Pegasus,Lifestyle,7242,0,4.9,791,118,340,South,2025-01-10
+377,Metcon,Training,6695,10,3.7,932,72,467,West,2025-01-11
+378,Revolution,Basketball,6452,10,2.8,390,180,211,East,2025-01-12
+379,Revolution,Basketball,12106,30,3.9,689,121,140,South,2025-01-13
+380,ZoomX,Basketball,4308,0,3.6,67,29,293,North,2025-01-14
+381,Revolution,Basketball,7177,10,4.6,805,187,298,North,2025-01-15
+382,ZoomX,Basketball,11705,0,2.7,35,107,401,East,2025-01-16
+383,Air Max,Basketball,13112,0,3.7,890,97,101,North,2025-01-17
+384,Metcon,Running,9852,0,2.9,456,31,304,West,2025-01-18
+385,ZoomX,Lifestyle,9035,40,3.3,75,194,359,West,2025-01-19
+386,Air Max,Basketball,6594,0,4.3,930,194,28,East,2025-01-20
+387,Revolution,Lifestyle,7841,40,3.7,769,155,41,North,2025-01-21
+388,Revolution,Lifestyle,4409,30,3.4,263,171,355,North,2025-01-22
+389,Air Max,Running,7566,10,3.5,908,78,303,East,2025-01-23
+390,Revolution,Basketball,14382,10,3.6,977,40,496,South,2025-01-24
+391,Air Max,Training,7491,10,4.5,53,62,146,North,2025-01-25
+392,ZoomX,Running,4555,10,4.7,106,22,256,South,2025-01-26
+393,ZoomX,Training,3804,10,4.9,563,103,462,North,2025-01-27
+394,Air Max,Lifestyle,4279,10,4.5,236,74,227,North,2025-01-28
+395,ZoomX,Lifestyle,10083,10,3.3,783,47,236,North,2025-01-29
+396,ZoomX,Running,8986,30,4.2,688,159,361,North,2025-01-30
+397,ZoomX,Running,8619,0,3.6,445,56,380,West,2025-01-31
+398,Pegasus,Training,14769,20,3.1,800,117,455,South,2025-02-01
+399,Metcon,Basketball,14093,40,4.6,610,99,489,South,2025-02-02
+400,Revolution,Training,4387,20,2.6,388,123,13,North,2025-02-03
+401,Pegasus,Running,13953,20,4.8,187,160,210,North,2025-02-04
+402,ZoomX,Training,5679,0,3.7,436,151,229,South,2025-02-05
+403,Air Max,Running,5106,0,4.1,924,166,397,West,2025-02-06
+404,ZoomX,Training,11173,0,4.1,718,33,100,East,2025-02-07
+405,Metcon,Running,7223,10,4.7,316,183,31,East,2025-02-08
+406,ZoomX,Running,7831,30,4.1,788,155,386,South,2025-02-09
+407,Air Max,Running,5768,10,4.0,513,164,16,North,2025-02-10
+408,Metcon,Basketball,6186,30,2.7,277,6,137,North,2025-02-11
+409,ZoomX,Training,14472,30,3.8,595,195,329,West,2025-02-12
+410,Metcon,Training,5573,20,2.9,17,164,166,East,2025-02-13
+411,Revolution,Training,5599,20,4.3,929,55,459,West,2025-02-14
+412,Revolution,Running,7033,30,3.8,517,64,310,East,2025-02-15
+413,ZoomX,Training,11428,30,4.2,485,192,440,South,2025-02-16
+414,Metcon,Training,4304,10,2.6,306,46,470,East,2025-02-17
+415,Air Max,Running,14622,10,2.7,173,147,481,West,2025-02-18
+416,ZoomX,Lifestyle,10368,20,4.3,494,18,100,West,2025-02-19
+417,Revolution,Running,8877,0,2.7,606,156,109,West,2025-02-20
+418,Revolution,Training,4301,30,2.7,81,187,343,South,2025-02-21
+419,ZoomX,Running,5541,10,2.5,576,145,173,East,2025-02-22
+420,Metcon,Lifestyle,5051,20,4.9,914,162,237,East,2025-02-23
+421,Revolution,Running,9809,10,4.3,568,170,162,West,2025-02-24
+422,Metcon,Training,11633,30,3.4,920,125,393,East,2025-02-25
+423,Revolution,Lifestyle,13268,30,3.2,953,138,216,North,2025-02-26
+424,Revolution,Basketball,14372,40,3.4,247,48,264,North,2025-02-27
+425,Pegasus,Training,13849,0,4.4,113,112,263,North,2025-02-28
+426,Revolution,Lifestyle,14990,40,4.2,219,37,292,East,2025-03-01
+427,Air Max,Lifestyle,11996,20,3.0,563,63,274,South,2025-03-02
+428,ZoomX,Basketball,3074,10,2.9,837,68,3,South,2025-03-03
+429,ZoomX,Running,9981,20,2.7,477,135,28,South,2025-03-04
+430,Metcon,Running,13367,30,4.2,463,161,326,South,2025-03-05
+431,Revolution,Training,13281,40,4.4,277,175,492,North,2025-03-06
+432,Air Max,Basketball,8475,40,3.2,395,115,428,North,2025-03-07
+433,Metcon,Running,11232,40,2.6,784,183,149,West,2025-03-08
+434,Pegasus,Basketball,13273,20,2.7,857,64,28,East,2025-03-09
+435,Metcon,Running,10184,30,4.9,396,30,488,East,2025-03-10
+436,Metcon,Lifestyle,8796,10,3.2,886,131,310,South,2025-03-11
+437,Revolution,Running,10141,10,4.4,268,112,438,North,2025-03-12
+438,Pegasus,Basketball,4622,20,4.1,292,108,65,South,2025-03-13
+439,Metcon,Lifestyle,11041,40,3.5,635,177,356,West,2025-03-14
+440,Air Max,Lifestyle,3341,0,3.0,884,68,21,East,2025-03-15
+441,Air Max,Lifestyle,5074,20,2.8,49,157,252,East,2025-03-16
+442,ZoomX,Basketball,10992,20,4.0,495,119,235,South,2025-03-17
+443,Pegasus,Training,3645,30,4.4,938,87,227,West,2025-03-18
+444,Pegasus,Training,7263,10,4.1,229,186,13,East,2025-03-19
+445,ZoomX,Training,11801,20,3.8,138,66,313,West,2025-03-20
+446,Metcon,Basketball,9136,20,2.6,529,74,49,West,2025-03-21
+447,Pegasus,Lifestyle,11646,40,4.9,622,44,118,South,2025-03-22
+448,Air Max,Training,14145,40,4.5,937,3,54,North,2025-03-23
+449,Air Max,Basketball,12900,0,3.2,901,153,138,South,2025-03-24
+450,Revolution,Training,14664,30,4.9,697,154,53,North,2025-03-25
+451,Pegasus,Running,5969,0,4.0,628,173,44,West,2025-03-26
+452,Metcon,Training,6028,40,4.0,622,106,303,North,2025-03-27
+453,ZoomX,Training,10643,10,4.4,269,191,53,West,2025-03-28
+454,ZoomX,Lifestyle,5681,40,4.5,999,50,74,East,2025-03-29
+455,Metcon,Basketball,6629,30,4.1,975,49,46,East,2025-03-30
+456,Revolution,Lifestyle,7225,40,2.8,375,5,13,East,2025-03-31
+457,ZoomX,Lifestyle,6067,30,3.3,767,58,165,South,2025-04-01
+458,Pegasus,Lifestyle,8941,30,4.8,796,124,102,South,2025-04-02
+459,Revolution,Lifestyle,4386,30,3.1,553,142,280,West,2025-04-03
+460,Pegasus,Lifestyle,14968,30,3.4,658,29,258,East,2025-04-04
+461,Air Max,Training,5866,30,3.6,533,169,470,South,2025-04-05
+462,Revolution,Lifestyle,7788,10,3.6,916,121,337,East,2025-04-06
+463,ZoomX,Lifestyle,14555,0,4.0,823,124,356,South,2025-04-07
+464,Revolution,Basketball,8490,20,4.9,896,36,398,North,2025-04-08
+465,Revolution,Running,7124,0,3.1,25,169,138,North,2025-04-09
+466,Revolution,Training,11340,30,2.8,138,123,163,East,2025-04-10
+467,Revolution,Training,6850,10,3.0,584,100,409,West,2025-04-11
+468,Pegasus,Training,8415,40,4.7,118,34,387,South,2025-04-12
+469,Air Max,Lifestyle,13250,10,4.1,896,86,111,South,2025-04-13
+470,Metcon,Lifestyle,10679,30,3.2,542,133,102,North,2025-04-14
+471,Revolution,Lifestyle,9819,10,4.5,679,195,17,North,2025-04-15
+472,ZoomX,Basketball,12328,10,4.7,278,17,268,West,2025-04-16
+473,Revolution,Running,11378,30,4.6,171,112,182,West,2025-04-17
+474,ZoomX,Lifestyle,14046,10,4.8,269,28,372,West,2025-04-18
+475,Pegasus,Running,12442,20,3.1,933,76,24,East,2025-04-19
+476,ZoomX,Basketball,4333,20,4.4,111,58,29,North,2025-04-20
+477,Metcon,Training,7150,10,3.7,515,174,171,East,2025-04-21
+478,Air Max,Lifestyle,9766,40,4.6,744,125,409,North,2025-04-22
+479,ZoomX,Running,5711,30,4.3,580,144,228,North,2025-04-23
+480,ZoomX,Running,7853,20,4.4,256,108,378,South,2025-04-24
+481,Air Max,Lifestyle,9212,40,4.1,649,21,188,North,2025-04-25
+482,Metcon,Training,10479,10,2.9,804,67,346,North,2025-04-26
+483,Revolution,Training,8408,40,3.9,846,68,230,East,2025-04-27
+484,ZoomX,Training,12977,0,5.0,546,164,321,North,2025-04-28
+485,Air Max,Basketball,10715,20,4.8,140,48,340,East,2025-04-29
+486,Pegasus,Running,11942,10,2.6,362,140,119,West,2025-04-30
+487,Air Max,Running,4762,30,2.9,205,161,156,North,2025-05-01
+488,Pegasus,Running,10101,10,2.8,802,108,272,North,2025-05-02
+489,Metcon,Basketball,10674,30,4.3,925,85,175,East,2025-05-03
+490,Revolution,Running,9122,10,4.5,939,52,465,West,2025-05-04
+491,Air Max,Basketball,3481,40,3.0,675,122,104,South,2025-05-05
+492,ZoomX,Training,3153,40,3.8,391,86,92,West,2025-05-06
+493,Metcon,Lifestyle,10617,40,4.6,654,178,186,East,2025-05-07
+494,Air Max,Running,4524,0,4.3,236,130,460,West,2025-05-08
+495,ZoomX,Running,5120,30,3.9,710,41,283,East,2025-05-09
+496,Air Max,Training,5343,40,4.0,485,97,181,East,2025-05-10
+497,Pegasus,Lifestyle,8136,0,3.8,486,159,170,South,2025-05-11
+498,Air Max,Basketball,8760,30,3.2,274,108,187,North,2025-05-12
+499,Air Max,Lifestyle,4240,10,3.9,381,50,175,East,2025-05-13
+500,Air Max,Training,3060,0,4.2,495,84,222,East,2025-05-14
